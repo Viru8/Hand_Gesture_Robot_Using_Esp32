@@ -4,8 +4,8 @@ import machine
 import time
 
 # WiFi credentials
-ssid = "Electrosoft"
-password = "Elec1234"
+ssid = "VIRU"
+password = "Virendra"
 
 # Motor pins
 in1 = machine.Pin(0, machine.Pin.OUT)
